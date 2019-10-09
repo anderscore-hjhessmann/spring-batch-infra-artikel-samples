@@ -1,0 +1,3 @@
+PersonData(firstName=Franz, lastName=Brantwein, birthday=1958-12-17)
+PersonData(firstName=Anna, lastName=Bolika, birthday=1972-07-03)
+PersonData(firstName=Jim, lastName=Panse, birthday=2002-02-08)
